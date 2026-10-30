@@ -10,4 +10,4 @@ cargo run   (requires QEMU, bootimage 0.10.3, nightly-2025-06-01)
   (target-pointer-width and target-c-int-width as strings, rustc-abi = "x86-softfloat")
 
 ## Aim:
-- to build a **completely working micro operating system** that runs virtually on any desktop by the end of **Semester 3**
+- to build a completely working micro operating system that runs virtually on any desktop by the end of Semester 3
