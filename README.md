@@ -2,7 +2,7 @@
 
 A minimal x86_64 operating system kernel written in Rust. It boots in QEMU and prints text to the screen through the VGA text buffer.
 
-> **Status:** Early-stage learning project. Current functionality is limited to booting and printing 
+> **Status:** Early-stage learning project. Current functionality is limited to booting and printing text.
 
 ## Features
 
